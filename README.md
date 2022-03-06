@@ -11,7 +11,7 @@ Skills:   REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sreekar-Shodhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ShodhanSreekar)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sreekar-Shodhan)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekar-Shodhan)](https://github.com/anuraghazra/github-readme-stats)
 
