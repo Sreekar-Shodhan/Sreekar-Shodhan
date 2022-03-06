@@ -23,4 +23,4 @@ Skills:   REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/Sreekar-Shodhan)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreekar-Shodhan)](https://github.com/anuraghazra/github-readme-stats)
+
