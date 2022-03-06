@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Iam Sreekar Shodhan from India. Iam currently a cs student. I really enjoy exploring different technologies and share about my learnings online. Iam very much interested in web development , web3.0 and javaScript.
-
 ### Hi there 👋, my name is Sreekar Shodhan
 #### Coding - learning in public - sharing my learning in public
 ![Coding - learning in public - sharing my learning in public](https://twitter.com/ShodhanSreekar/header_photo)
