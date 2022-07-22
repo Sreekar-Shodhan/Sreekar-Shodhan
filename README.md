@@ -1,12 +1,11 @@
 ### Hi there 👋, my name is Sreekar Shodhan
 #### Coding - learning in public - sharing my learning in public
-![Coding - learning in public - sharing my learning in public](https://twitter.com/ShodhanSreekar/header_photo)
 
-Iam an aspiring developer from India. Iam currently a cs student. I really enjoy exploring different technologies and share about my learnings online. Iam very much interested in web development , web3.0 and javaScript.
+Iam currently in Final year of CS. I enjoy exploring different technologies and share about my learnings online. 
 
 Skills:   REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sreekar-Shodhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ShodhanSreekar)  
