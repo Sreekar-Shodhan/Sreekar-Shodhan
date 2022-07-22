@@ -3,7 +3,7 @@
 
 Iam currently in Final year of CS. I enjoy exploring different technologies and share about my learnings online. 
 
-Skills:   REACT / JS / HTML / CSS
+Skills:   Html / CSS/ JavaScript/ Java/ Git
 
 
 
