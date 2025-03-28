@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently contributing to (https://github.com/jaya-shankar/HDI-plots-v2)
+- 🔭 I’m currently contributing to https://github.com/jaya-shankar/HDI-plots-v2
 
 - 🌱 I’m currently figuring out about **MCP**
 
